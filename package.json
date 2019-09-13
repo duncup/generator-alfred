@@ -1,5 +1,5 @@
 {
-  "name": "generator-alfred",
+  "name": "@duncup/generator-alfred",
   "version": "0.5.0",
   "description": "Scaffold out an Alfred workflow",
   "license": "MIT",
