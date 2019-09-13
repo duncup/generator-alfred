@@ -28,7 +28,8 @@
     "alfy"
   ],
   "dependencies": {
-    "alfy": "^0.9.1"
+    "alfy": "^0.9.1",
+    "alfred-notifier": "^0.2.3"
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",
