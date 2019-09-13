@@ -1,6 +1,6 @@
 {
   "name": "@duncup/generator-alfred",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Scaffold out an Alfred workflow",
   "license": "MIT",
   "repository": "SamVerschueren/generator-alfred",
